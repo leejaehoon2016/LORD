@@ -13,7 +13,7 @@ This is official code implementation for [this paper](https://openreview.net/for
     ```
 
 ## 2. Download and Unzip the Datasets
-Download data.tar.gz from [this url](https://drive.google.com/file/d/1P2eklabDel0vA3DdA7ftcavBNiMztTt-/view?usp=sharing). Save the file in top level directory(_i.e._ LORD) and running the below command.
+Download data.tar.gz from [this url](https://drive.google.com/file/d/1P2eklabDel0vA3DdA7ftcavBNiMztTt-/view?usp=sharing). Save the file in top level directory(_i.e._ LORD) and run the below command.
 ```
 tar -zxvf data.tar.gz
 ```

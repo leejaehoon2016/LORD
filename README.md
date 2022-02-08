@@ -1,7 +1,7 @@
 # LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations(ICLR 2022)
 ![pic](picture/lord_model.png)
 
-You can reproduce the experimental result in [this paper](https://openreview.net/forum?id=fCG75wd39ze).
+This is official code implementation for [this paper](https://openreview.net/forum?id=fCG75wd39ze).
 
 ## 1. Software Environment
 1. python: 3.7.10
